@@ -12,7 +12,7 @@ namespace TestLesson0
 
             Console.WriteLine("x + y = {0}", Calc.Sum(x,y));
 
-            Console.WriteLine("Hello World! - Study1 - Commit2");
+            Console.WriteLine("Hello World! - Study1 - Commit2 - Commit3");
 
        
         }
