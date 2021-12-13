@@ -16,6 +16,8 @@ namespace TestLesson0
 
             Console.WriteLine("Branch-Feature/task13");
 
+            Console.WriteLine("Master-after-merge-with-F13");
+
         }
     }
 }
