@@ -20,6 +20,8 @@ namespace TestLesson0
 
             Console.WriteLine("Master-after-merge-with-F13");
 
+            Console.WriteLine("Commit into Git");
+
         }
     }
 }
